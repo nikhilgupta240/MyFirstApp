@@ -1,4 +1,3 @@
-# MyFirstApp
-My first app that uses location service to track the distance travelled. Basically I made this app to have some practice on location 
-based application and understand how location sevices work.
-For the beginners it is a very good and easily understandable project to start work on.
+# Personal Auto Meter
+Now No auto driver can charge you extra money
+Your own auto meter based on the fares in New Delhi,India auto that uses location service to track the distance travelled and displays the correct fare. 
